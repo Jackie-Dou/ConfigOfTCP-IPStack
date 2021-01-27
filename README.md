@@ -1,1 +1,2 @@
 # ConfigOfTCP-IPStack
+См.записку
