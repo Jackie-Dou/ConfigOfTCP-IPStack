@@ -1,0 +1,5 @@
+F:\Курс_2_Семестр_2\_КУРСАЧ\KSIScourseWork-master\KSIScourseWork-master\Server\bin\Debug\ConsoleApplication.exe
+F:\Курс_2_Семестр_2\_КУРСАЧ\KSIScourseWork-master\KSIScourseWork-master\Server\bin\Debug\ConsoleApplication.pdb
+F:\Курс_2_Семестр_2\_КУРСАЧ\KSIScourseWork-master\KSIScourseWork-master\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+F:\Курс_2_Семестр_2\_КУРСАЧ\KSIScourseWork-master\KSIScourseWork-master\Server\obj\x86\Debug\ConsoleApplication.exe
+F:\Курс_2_Семестр_2\_КУРСАЧ\KSIScourseWork-master\KSIScourseWork-master\Server\obj\x86\Debug\ConsoleApplication.pdb
